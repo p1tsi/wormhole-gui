@@ -1,0 +1,8 @@
+node_modules/
+package-lock.json
+bulmaswatch/_site
+bulmaswatch/.sass-cache
+bulmaswatch/.jekyll-metadata
+bulmaswatch/node_modules
+bulmaswatch/*.gem
+bulmaswatch/.bundle
