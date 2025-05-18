@@ -43,7 +43,8 @@ export default class HookOperations extends Vue {
     //{name: "mach", checked: false},
     {name: "IOKit", checked: false},
     {name: "dyld", checked: false},
-    {name: "call", checked: false}
+    {name: "call", checked: false},
+    {name: "syscall", checked: false}
   ];
 
   customPluginList: Plugin[] = [];
